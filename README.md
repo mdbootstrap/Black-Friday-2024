@@ -206,6 +206,8 @@ Get a clean, error-free transcript with improved grammar & punctuation. | 50% OF
 
 #### 💰 (50% OFF) [PDFPeer](https://pdfpeer.com) - Turn your PDF to AI with PDFPeer! From study materials to bank statements, PDFPeer makes it easy to chat with your documents. Get 50% OFF with promo code **BF50**. 
 
+#### 💸 (50% OFF) [HammerAI](https://www.hammerai.com/) - Private and uncensored character chat app - either run models locally with Ollama, or use our cloud-hosted models.  Code: 50% OFF with code **BZAOH18**.
+
 -------------
 
 ## 🛒Hardware
